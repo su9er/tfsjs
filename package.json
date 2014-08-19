@@ -1,0 +1,32 @@
+{
+  "name": "tfs.js",
+  "version": "0.1.0",
+  "description": "Windows Team Foundation Server(TFS) version control via Node.js",
+  "main": "tfs.js",
+  "scripts": {
+    "test": "testtfs"
+  },
+  "dependencies": {
+      "bufferhelper":"*",
+      "iconv-lite":"*"
+  },
+  "devDependencies": {
+      "bufferhelper":"*",
+      "iconv-lite":"*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/su9er/tfsjs.git"
+  },
+  "keywords": [
+    "tfs",
+    "node",
+    "npm"
+  ],
+  "author": "su9er",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/su9er/tfsjs/issues"
+  },
+  "homepage": "https://github.com/su9er/tfsjs"
+}
