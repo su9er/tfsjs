@@ -19,7 +19,7 @@ var fs = require('fs'),
         workspace: "",
         login: "" // /login:username@domain,password
     };
-    tfAdress = fs.realpathSync(".\\tf\\tf.cmd"),
+    tfAdress = fs.realpathSync(".\\tf\\tf"),
     msg = {
         "cmd": {
             "startCommand": "Start cmd command",
